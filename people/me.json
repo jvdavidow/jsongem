@@ -1,0 +1,12 @@
+{
+	"people": [
+	name: "jon davidow",
+	favorites: 
+	{
+		app: "asana" 
+		food: "cheese"
+		movies: "the departed"
+	},
+	bio: "i'm just a guy trying to learn how to drive a computer."
+	]
+}
